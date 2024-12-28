@@ -51,7 +51,7 @@ program
                 const data = await response.json();
 
                 if(data.length === 0){
-                    throw new Error("No activity available");
+                    throw new Error("⚠️ No activity found on this page. Try a different page or reduce the per-page limit.");
                 }
 
                 // Display fetched activity
