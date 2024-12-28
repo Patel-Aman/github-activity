@@ -1,0 +1,419 @@
+provided user id: patel-aman
+Fetching activity for user: patel-aman
+Page: 1, Per Page: 30
+[
+  {
+    "id": "44683653251",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 901769625,
+      "name": "Patel-Aman/task-cli",
+      "url": "https://api.github.com/repos/Patel-Aman/task-cli"
+    },
+    "payload": {
+      "repository_id": 901769625,
+      "push_id": 21653329379,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/main",
+      "head": "c93ab6abc62442bc036d1fb237de16f3d089e37c",
+      "before": "982d01299924f20963686ecd7e658a7d55bc9c83",
+      "commits": [
+        {
+          "sha": "8a35010a69fd741ba2feb580476a80dc185c6b51",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "added more fields to task",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/task-cli/commits/8a35010a69fd741ba2feb580476a80dc185c6b51"
+        },
+        {
+          "sha": "c93ab6abc62442bc036d1fb237de16f3d089e37c",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "minor changes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/task-cli/commits/c93ab6abc62442bc036d1fb237de16f3d089e37c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-11T11:27:33Z"
+  },
+  {
+    "id": "44679684604",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 901769625,
+      "name": "Patel-Aman/task-cli",
+      "url": "https://api.github.com/repos/Patel-Aman/task-cli"
+    },
+    "payload": {
+      "repository_id": 901769625,
+      "push_id": 21651408773,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "982d01299924f20963686ecd7e658a7d55bc9c83",
+      "before": "4a2deebf251b4ee3b63d17995422aec5f2e27b94",
+      "commits": [
+        {
+          "sha": "982d01299924f20963686ecd7e658a7d55bc9c83",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "added readme and license",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/task-cli/commits/982d01299924f20963686ecd7e658a7d55bc9c83"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-11T09:39:13Z"
+  },
+  {
+    "id": "44679496384",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 901769625,
+      "name": "Patel-Aman/task-cli",
+      "url": "https://api.github.com/repos/Patel-Aman/task-cli"
+    },
+    "payload": {
+      "repository_id": 901769625,
+      "push_id": 21651317505,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "4a2deebf251b4ee3b63d17995422aec5f2e27b94",
+      "before": "539a0f62e631afd1925e1c9130973bea3c0a3ac0",
+      "commits": [
+        {
+          "sha": "4a2deebf251b4ee3b63d17995422aec5f2e27b94",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "added readme and license",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/task-cli/commits/4a2deebf251b4ee3b63d17995422aec5f2e27b94"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-11T09:34:02Z"
+  },
+  {
+    "id": "44679419411",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 901769625,
+      "name": "Patel-Aman/task-cli",
+      "url": "https://api.github.com/repos/Patel-Aman/task-cli"
+    },
+    "payload": {
+      "repository_id": 901769625,
+      "push_id": 21651279776,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "539a0f62e631afd1925e1c9130973bea3c0a3ac0",
+      "before": "49f045bea9e27bf3ccdc9450e9c5c9d9f40057c4",
+      "commits": [
+        {
+          "sha": "539a0f62e631afd1925e1c9130973bea3c0a3ac0",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "added readme and license",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/task-cli/commits/539a0f62e631afd1925e1c9130973bea3c0a3ac0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-11T09:31:57Z"
+  },
+  {
+    "id": "44679387194",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 901769625,
+      "name": "Patel-Aman/task-cli",
+      "url": "https://api.github.com/repos/Patel-Aman/task-cli"
+    },
+    "payload": {
+      "repository_id": 901769625,
+      "push_id": 21651264665,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "49f045bea9e27bf3ccdc9450e9c5c9d9f40057c4",
+      "before": "e3bbb7d443778505cf52f758e1957a1fd7285aad",
+      "commits": [
+        {
+          "sha": "49f045bea9e27bf3ccdc9450e9c5c9d9f40057c4",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "added readme and license",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/task-cli/commits/49f045bea9e27bf3ccdc9450e9c5c9d9f40057c4"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-12-11T09:31:08Z"
+  },
+  {
+    "id": "44679357058",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 901769625,
+      "name": "Patel-Aman/task-cli",
+      "url": "https://api.github.com/repos/Patel-Aman/task-cli"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2024-12-11T09:30:18Z"
+  },
+  {
+    "id": "44679333418",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 901769625,
+      "name": "Patel-Aman/task-cli",
+      "url": "https://api.github.com/repos/Patel-Aman/task-cli"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2024-12-11T09:29:41Z"
+  },
+  {
+    "id": "43812448993",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 888260227,
+      "name": "Patel-Aman/store-it",
+      "url": "https://api.github.com/repos/Patel-Aman/store-it"
+    },
+    "payload": {
+      "repository_id": 888260227,
+      "push_id": 21207983536,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "5a99c88a4e8f0aeba498bbba9f7341d19f4bdc81",
+      "before": "2e986477518035f5894f96c8eb7eb17cb71f7f6f",
+      "commits": [
+        {
+          "sha": "5a99c88a4e8f0aeba498bbba9f7341d19f4bdc81",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "minor changes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/store-it/commits/5a99c88a4e8f0aeba498bbba9f7341d19f4bdc81"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-11-14T06:51:50Z"
+  },
+  {
+    "id": "43810854571",
+    "type": "PushEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 888260227,
+      "name": "Patel-Aman/store-it",
+      "url": "https://api.github.com/repos/Patel-Aman/store-it"
+    },
+    "payload": {
+      "repository_id": 888260227,
+      "push_id": 21207166013,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "2e986477518035f5894f96c8eb7eb17cb71f7f6f",
+      "before": "d26030b76e3afa0302677ee5508659a2df6577a6",
+      "commits": [
+        {
+          "sha": "2e986477518035f5894f96c8eb7eb17cb71f7f6f",
+          "author": {
+            "email": "patel.26@iitj.ac.in",
+            "name": "Aman Patel"
+          },
+          "message": "favicon updated",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Patel-Aman/store-it/commits/2e986477518035f5894f96c8eb7eb17cb71f7f6f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2024-11-14T05:40:07Z"
+  },
+  {
+    "id": "43810150850",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 888260227,
+      "name": "Patel-Aman/store-it",
+      "url": "https://api.github.com/repos/Patel-Aman/store-it"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2024-11-14T05:05:33Z"
+  },
+  {
+    "id": "43809913465",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 888260227,
+      "name": "Patel-Aman/store-it",
+      "url": "https://api.github.com/repos/Patel-Aman/store-it"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": null,
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2024-11-14T04:52:22Z"
+  },
+  {
+    "id": "42441912974",
+    "type": "PublicEvent",
+    "actor": {
+      "id": 79733162,
+      "login": "Patel-Aman",
+      "display_login": "Patel-Aman",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Patel-Aman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79733162?"
+    },
+    "repo": {
+      "id": 730271262,
+      "name": "Patel-Aman/stochastic_line_balancing",
+      "url": "https://api.github.com/repos/Patel-Aman/stochastic_line_balancing"
+    },
+    "payload": {},
+    "public": true,
+    "created_at": "2024-10-01T15:15:58Z"
+  }
+]
